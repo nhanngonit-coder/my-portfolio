@@ -17,7 +17,7 @@ initial-scale=1.0">
     </nav>
 
     <header>
-        <h1>Xin chào! Mình là Nguyễn Văn
+        <h1>Xin chào! Mình là Nhan Ngọc Ngôn
 A</h1>
         <p>Full-stack Developer tương
 lai</p>
